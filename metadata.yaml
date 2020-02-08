@@ -1,6 +1,9 @@
 _repo: It-s-Fun-to-Sew-with-a-Sewing-Machine_61167
-_version: 0.1.0
+_version: 0.2.0
 alternative_title: 'It''s Fun to Sew: With the Sewing Machine'
+covers:
+- cover_type: archival
+  image_path: 61167-h/images/cover.jpg
 creator:
   author:
     agent_name: Struefert, Hildegarde
@@ -9,6 +12,8 @@ creator:
     gutenberg_agent_id: '51298'
     url: http://www.gutenberg.org/2009/agents/51298
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/61167#It-s-Fun-to-Sew-with-a-Sewing-Machine
 gutenberg_issued: '2020-01-13'
 gutenberg_type: Text
 identifiers:
